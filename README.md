@@ -1,2 +1,2 @@
 # yahwr
-yet another hellow world repository
+yet another hello world repository
